@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AuraHome": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
